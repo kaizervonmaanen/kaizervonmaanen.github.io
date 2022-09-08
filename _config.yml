@@ -1,14 +1,14 @@
 site: 
 url: www.kaizervonmaanen.art
-title: ⅃
-description:
-instagram:
-  username: kaizervonmaanen
-  card: summary
-author:
-  instagram: kaizervonmaanen
+title: Artist profile for ⅃
+description: Overview of ⅃'s artwork, info about him and contact information.
+logo: /assets/img/logo.jpg
+social:
   name: ⅃
-  avatar:
+  links:
+    - https://www.instagram.com/kaizervonmaanen/
+author:
+  name: ⅃
   email: kaizervonmaanen@gmail.com
   url: www.kaizervonmaanen.art
 permalink: pretty

@@ -100,13 +100,10 @@ pre {
 
 img {
 	object-fit: cover;
-	max-height:90vh;
+	max-height:80vh;
 	max-width:100%;
 	transform: scale(1);
     transition: all 0.3s ease-in-out;
-    &:hover {
-      transform: scale(1.05);
-     }
 	}
 
 .img-content-hover {
