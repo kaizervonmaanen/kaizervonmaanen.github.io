@@ -6,6 +6,12 @@
 	padding:0;
 }
 
+@supports (display: grid) {
+  gallery .grid {
+    grid-gap: 1rem;
+  }
+}
+
 body {
 	font-family: 'Roboto', 'futura-pt', system-ui, sans-serif;
 	-webkit-font-smoothing: antialiased;
@@ -63,13 +69,38 @@ pre {
 	overflow-x: auto;
 }
 
+.img-container {
+  cursor: pointer;
+  overflow: hidden;
+  display: inline-block;
+  &:hover .img-content-hover {
+    display: block;
+  }
+}
+
 img {
 	object-fit: cover;
-	max-height:80vh;
+	max-height:90vh;
 	max-width:100%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+	transform: scale(1);
+    transition: all 0.3s ease-in-out;
+    &:hover {
+      transform: scale(1.05);
+     }
+	}
+
+.img-content-hover {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  white-space: nowrap;
+  display: none;
+  padding: 1rem;
+  background: #fff;
+  font-weight: 400;
+  margin-top: 1.25rem;
+  margin-left: -2rem;
 }
 
 hr {
@@ -165,12 +196,21 @@ strong, b {
 
 main {
 	display:flex;
-	flex-wrap:wrap;
+	flex-wrap:nowrap;
 	max-width:100rem;
 	margin:2rem auto;
 	padding:1rem;
 }
 
+section {
+	flex-basis:0;
+	flex-grow:999;
+	min-width:70%;
+	display:flex;
+	flex-direction:column;
+	margin-left: 10%;
+	padding-right: 1%;
+}
 
 @media screen and (max-width: 45rem ) {
 header li {
@@ -181,7 +221,6 @@ header li {
 	padding-bottom: 1rem;
 }
 header ul {
-	border-bottom: 1px solid #edf2f7;
 	padding-bottom: 2rem;	
 }
 nav ul {
@@ -191,31 +230,25 @@ nav ul {
 .photos ul {
 	margin-top: 0.5rem;
 }
-
-}
-
 section {
-	flex-basis:0;
-	flex-grow:999;
-	min-width:70%;
-	display:flex;
-	flex-direction:column;
 	margin-left: 1%;
-	padding-right: 1%;
+	min-width: 100%;
 }
+main {
+	flex-wrap: wrap;
+}
+
+}
+
 
 figcaption {
     font-size: smaller;
 }
 
-galleryWrapper {
-    position: absolute;
+gallery {
+    position: relative;
     height: 100%;
     max-width: 100%;
     top: 0;
     right: 0;
-}
-
-.header__inline h3, .header__inline p {
-    display: inline;
 }
