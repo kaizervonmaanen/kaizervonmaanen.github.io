@@ -1,19 +1,22 @@
 ---
 layout: page
-title: About
+title: 
 ---
+<div class="header__inline">
+    <H3>⅃</H3> <p> (b. 1984, Norway) lives and works in Oslo, Norway. He works in various disciplines and mediums like oil paint, acrylics, drawing, multiple forms of printmaking and digital art. He dedicates himself to exploring the three-way relationship between the human condition, the natural world and our technology.</p>
+</div>
 
-⅃, (b. 1984, Norway) lives and works in Oslo, Norway. Has a MSc in engineering and heavily integrates technology and
-science into his work and it is a highly relevant point to appreciate why he works how he does, his philosophical relationship to art and his aesthetic taste. Works in oil paints, acrylics, printmaking, drawings and Digital Graphic Artworks.  
+### CONTACT INFO
 
-Contact info: <kaizervonmaanen@gmail.com>
+Email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kaizervonmaanen@gmail.com>  
+Instagram: &nbsp;&nbsp; <https://www.instagram.com/kaizervonmaanen/>  
 
-### Education
+### EDUCATION
 
 2008-2009 &nbsp;&nbsp; Prosjektskolen, Art School  
 2011-2016 &nbsp;&nbsp; NMBU, MSc in Environmental Science  
 
-### Exhibitions
+### EXHIBITIONS
 
 2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduation Exhibition, Prosjektskolen  
 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upcoming exhibition, Galleri Verftsporten, Horten  
