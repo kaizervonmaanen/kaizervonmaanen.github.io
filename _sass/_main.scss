@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400,500,700');
+
+$white: #fff;
+$black: #2e2e2e;
+$gray: #787878;
+
 *,:after,:before {
 	box-sizing:border-box;
 	background-color:inherit;
@@ -44,6 +50,10 @@ pre {
 	margin: 1rem 0;
 }
 
+.header__inline h3, .header__inline p {
+    display: inline;
+}
+
 .post h2:first-child, .project h2:first-child, .photo h2:first-child {
 	margin-top: 0;
 }
@@ -67,6 +77,16 @@ pre code {
 pre {
 	padding: 1rem;
 	overflow-x: auto;
+}
+
+.title {
+  color: $black;
+  font-weight: 700;
+}
+
+.category {
+  font-size: 0.8rem;
+  color: $gray;
 }
 
 .img-container {
@@ -99,7 +119,7 @@ img {
   padding: 1rem;
   background: #fff;
   font-weight: 400;
-  margin-top: 1.25rem;
+  margin-top: 0rem;
   margin-left: -2rem;
 }
 
