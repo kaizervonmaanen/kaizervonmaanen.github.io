@@ -2,15 +2,9 @@
 layout: page
 title: 
 ---
-<div class="header__inline">
+<div class="header__inline" style="max-width:600px">
     <H3>⅃</H3> <p> (b. 1984, Norway) lives and works in Oslo, Norway. He works in various disciplines and mediums like oil paint, acrylics, drawing, multiple forms of printmaking and digital art. He dedicates himself to exploring the three-way relationship between the human condition, the natural world and our technology.</p>
 </div>
-
-
-### CONTACT INFO
-
-Email: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kaizervonmaanen@gmail.com>  
-Instagram: &nbsp;&nbsp; <https://www.instagram.com/kaizervonmaanen/>  
 
 
 ### EDUCATION
