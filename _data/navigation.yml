@@ -1,9 +1,11 @@
 links:
-- title: ⅃
-  url: /
 - title: SELECTED WORKS
   url: /works
 - title: CONTACT
   url: /contact
 - title: ABOUT
   url: /about
+- title: CV
+  url: /cv
+- title: ⅃
+  url: /

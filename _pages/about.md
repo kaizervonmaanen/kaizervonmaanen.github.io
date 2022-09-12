@@ -3,17 +3,9 @@ layout: page
 title: 
 ---
 <div class="header__inline" style="max-width:600px">
-    <H3>⅃</H3> <p> (b. 1984, Norway) lives and works in Oslo, Norway. He works in various disciplines and mediums like oil paint, acrylics, drawing, multiple forms of printmaking and digital art. He dedicates himself to exploring the three-way relationship between the human condition, the natural world and our technology.</p>
+    <H3>⅃</H3> <p> (b. 1984, Norway) lives and works in Oslo, Norway. ⅃ takes an investigative approach towards various disciplines and mediums like oil paint, acrylics, drawing, multiple forms of printmaking and digital art. ⅃ works in a conceptual tradition and explores the relationship between the artist's role, the physical work, the human behind it and the various layers of technology between the artist and the artwork in a time of generative art.</p>
+    <br><br>
+    <H3>⅃</H3> <p> dedicates himself to exploring the three-way relationship between the human condition, the natural world and our technology. His previous projects include <em>The Robot Project</em> where he created a robot that could draw and alternatively told the robot what to draw and made it draw. And also made a program to develop subjects and prompts to tell him what to draw.</p>
+    <br><br>
+    <H3>⅃</H3> <p> works are deeply abstract, where his most personal figurative symbolic language provides each work with hazy, dreamlike scenes with a particular recognizable character. Something that almost looks like a plant or a road, something that might be a cloud or a rockface. The aesthetic ambiguity in his brushstrokes and pencil marks is supposed to provoke a certain feeling of the intangible. Our human condition in the age of the internet. Just like after the printing press, we have a period where we seem to know even less than before and resort to witchhunts, a time where even our identities are vague, conflicts are high, and there is no over-arching meta-narrative anymore. The age of reason is over; the age of progress is over. Look, there is a destroyed world over the horizon. Where are we going? Where have we been? Do we have to change everything? Is there nothing left? Looking this cultural trait straight in the eye might not have any practical value. But it has a lot of artistic value; as Nietzche said, "one must still have chaos in oneself to be able to give birth to a dancing star".</p>
 </div>
-
-
-### EDUCATION
-
-2008-2009 &nbsp;&nbsp; Prosjektskolen, Art School  
-2011-2016 &nbsp;&nbsp; NMBU, MSc in Environmental Science  
-
-
-### EXHIBITIONS
-
-2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduation Exhibition, Prosjektskolen  
-2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upcoming exhibition, Galleri Verftsporten, Horten  
