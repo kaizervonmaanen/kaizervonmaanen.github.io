@@ -7,19 +7,19 @@ title:
 <div id="gallery">
     <div class="grid">
         <figure class="img-container">
+              <img src="assets/img/dWJmIt8s.jpg" alt="Risograph of a house in the clouds" />
+              <span class="img-content-hover">
+                <h4 class="title">Road Root Living Red Flowers (2022)</h4>
+                <h6 class="category">Risograph on paper</h6>
+                <h6 class="category">29.7 x 42 cm</h6>
+              </span>
+        </figure>
+        <figure class="img-container">
               <img src="assets/img/CCI02082022_0001.jpg" alt="Acrylic painting of a winter forest scene" />
               <span class="img-content-hover">
                 <h4 class="title">Winter Scene With Machine (2022)</h4>
                 <h6 class="category">Acrylics on handmade paper</h6>
                 <h6 class="category">21 x 29.7 cm</h6>
-              </span>
-        </figure>
-        <figure class="img-container">
-              <img src="assets/img/tvjfr1os6tm81.jpg" alt="How Odysseus Escaped Polyphemus" />
-              <span class="img-content-hover">
-                <h4 class="title">How Odysseus Escaped Polyphemus (2022)</h4>
-                <h6 class="category">Oil paint on canvas</h6>
-                <h6 class="category">40.64 x 50.8 cm</h6>
               </span>
         </figure>
         <figure class="img-container">
@@ -39,11 +39,11 @@ title:
               </span>
         </figure>
         <figure class="img-container">
-              <img src="assets/img/dWJmIt8s.jpeg" alt="Risograph of a house in the clouds" />
+              <img src="assets/img/tvjfr1os6tm81.jpg" alt="How Odysseus Escaped Polyphemus" />
               <span class="img-content-hover">
-                <h4 class="title">A Building Cut Into Clouds (2022)</h4>
-                <h6 class="category">Risograph on handmade paper</h6>
-                <h6 class="category">21 x 29.7 cm</h6>
+                <h4 class="title">How Odysseus Escaped Polyphemus (2022)</h4>
+                <h6 class="category">Oil paint on canvas</h6>
+                <h6 class="category">40.64 x 50.8 cm</h6>
               </span>
         </figure>
     </div>
