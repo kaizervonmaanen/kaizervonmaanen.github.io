@@ -92,15 +92,6 @@ $easing: cubic-bezier(.25, 0, .1, 1);
   margin: 0;
   font-size: .8rem;
   line-height: 1.7;
-
-  &:after {
-    content: 'For more, see instagram link in "Contact"';
-    font-size: .5rem;
-    text-transform: uppercase;
-    display: block;
-    margin-bottom: .5rem;
-    letter-spacing: 1px;
-  }
 }
 
 .ui-nav {
