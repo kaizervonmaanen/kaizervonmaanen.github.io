@@ -9,7 +9,7 @@ title:
 
 ### EDUCATION
 
-2011-2016 &nbsp;&nbsp; NMBU, MSc in Environmental Science 
+2011-2016 &nbsp;&nbsp; NMBU, MSc in Environmental Science  
 2008-2009 &nbsp;&nbsp; Prosjektskolen, Art School  
 
 ### EXHIBITIONS
