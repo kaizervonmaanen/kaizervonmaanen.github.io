@@ -3,11 +3,9 @@ layout: page
 title: 
 ---
 <div class="header__inline" style="max-width:600px">
-    <H3>⅃</H3> <p> (b. 1984, Norway) lives and works in Oslo, Norway. He has a very recognisable style and works in oil paint, acrylics, drawing, multiple forms of printmaking and digital art. ⅃ works in a conceptual tradition where the artwork are the result of play-acting sessions as the emperor of the moon. He gives surreal descriptions (with words and images) of an imagined world on the moon's far side to ever-changing self-made software that results in a sketch finished by hand. He explores the relationship between the artist's role, the physical work, the human behind it and the power dynamics between ourselves and our technology.</p>
-    <br><br>
-    <H3>⅃</H3> <p> dedicates himself to exploring the three-way relationship between the human condition, the natural world and our technology. His previous projects include <em>The Robot Project</em> where he created a robot that could draw and alternatively told the robot what to draw and made it draw while also the robot told him what to draw back.</p>
-    <br><br>
-    <H3>⅃</H3><p>'s works are deeply abstract, with hints of something figurative, which provides each piece with a hazy, dreamlike quality. He wants to change how abstract art is viewed and intends to influence a change towards a more baroque and extravagant aesthetic. He feels maximalism better reflects our human condition in the age of the internet. He strives to make the most beautiful work possible with intentionality, personal style and skill to promote the lush and baroque aesthetic he would want to surround himself with. <b>Too much of a good thing is fantastic!</b></p>
+     <p>I believe I am on earth to make art that will make people confident that machines cannot take over in the coming age of automation. Therefore, I am constantly creating software and hardware and including them in my artistic process as much as possible. I once was called a quisling when I explained how I work. I believe that good art has a recognisable and unique style with a human touch. I have such a style; nobody makes anything similar to what I do. So my signature is subtle; it is barely more than a line and often hidden.<H3 style="color: #CCCCCC;">⅃</H3>I don't need anything more. My style is distinct.
+        <br><br>
+     My art is baroque and lush. It is tactile with impasto and fingerprints from my hand on the objects. Despite how much technology is involved, it is profoundly human and done with passion. My art is a jungle and a table overflowing. It is everything we don't want to lose as we can glimpse a ruined world on the horizon. Too much of a good thing is fantastic; that is my aesthetic. I will let the brushes swing and the pencil glide, and God decides if anyone will like it. But if we lose, we make a swan-like end and sing sweetly as we die with a flourish.</p>
 </div>
 
 
