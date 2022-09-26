@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 <div class="header__inline" style="max-width:600px">
-    <H3>⅃</H3><p>(b. 1984, Norway) is a brazilian-norwegian. Decided to be an artist at the age of 7, is owned by collectors in Norway and in the UK. Has two murals in Glasgow, Scotland. Thought deep knowledge about a common artistic subject would be more useful to the art than art school so he studied environmental science. Art also became a means for him to find a cultural connection and identity while being a half-brazilian and half-norwegian muslim wearing all sorts of masks in different situations. And and a means for you to see unusual artifacts from a unusual life at a critical time in human history.</p>
+    <H3>⅃</H3><p>(b. 1984, Norway) decided to be an artist at 7 when his classmates were impressed by his drawing skills, and he liked the attention. Today he draws, paints and makes prints in various materials and techniques. Art also became a means for him to find a cultural identity and place in the world while being a half-Brazilian and half-Norwegian Muslim. Living in a multi-cultural world means showing and hiding different parts of oneself in different situations. So a significant amount of his work is a poetic exploration of identity as performance and conceptually in his work. Educated as an engineer, he also has included self-made technology deeply into his process to shave away the person from a lot of the creative process. And only retain the human touch as the labour involved in making the artwork. Putting pencil on paper, paint on canvas and so on. It explores the role of technology in art, its relationship to identity, and the artist's role as a producer of culture. he also does this to stylise and emphasise what influences artwork and the role influence has in the creative process. It is also fun that he works traditionally using a model or reference and painting it based on how it looks. Although due to technology, we are in a situation where someone like me can use an artistic process exclusively used by figurative painters to paint something abstract.</p>
 </div>
 
 
@@ -18,3 +18,5 @@ title:
 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 365 Art+ Magazine No. 15 ZEN, pp. 24-27  
 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bøygen Magazine 1/22 , "Det okkulte", p. 66  
 2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduation Exhibition, Prosjektskolen  
+
+
